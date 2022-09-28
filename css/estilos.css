@@ -1,14 +1,16 @@
+body{
+  background-color: #1D1D1E;
+}
+
 h1 {
     color: #435A7C;
 }
 
-p {
-    color: #494B4E;
-}
+
 
 
 .album-container {
-    
+
     margin-top: 50px;
     display: flex;
     flex-wrap: wrap;
