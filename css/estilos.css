@@ -1,12 +1,14 @@
-body{
-  background-color: #1D1D1E;
+body {
+    background-color: #1D1D1E;
 }
 
 h1 {
     color: #435A7C;
 }
 
-
+img {
+    border-radius: 10px;
+}
 
 
 .album-container {
@@ -16,7 +18,9 @@ h1 {
     flex-wrap: wrap;
     justify-content: center;
 
+
 }
+
 
 .parrafo {
     color: #494B4E;
@@ -29,16 +33,21 @@ h1 {
 }
 
 .album {
+    display: flex;
+    flex-direction: column;
     width: 200px;
-    height: 200px;
+    height: auto;
     margin: 25px 10px;
+
 }
 
 .titulo-album {
-
+    margin-bottom: 10px;
+    padding: 3px;
     text-align: center;
     background: #182265;
     color: #ffff;
     border-radius: 10px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
 }
