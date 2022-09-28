@@ -1,0 +1,42 @@
+h1 {
+    color: #435A7C;
+}
+
+p {
+    color: #494B4E;
+}
+
+
+.album-container {
+    
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.parrafo {
+    color: #494B4E;
+    font-size: 20px;
+
+}
+
+.logo {
+    margin-top: 40px;
+}
+
+.album {
+    width: 200px;
+    height: 200px;
+    margin: 25px 10px;
+}
+
+.titulo-album {
+
+    text-align: center;
+    background: #182265;
+    color: #ffff;
+    border-radius: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
