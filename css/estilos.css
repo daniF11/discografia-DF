@@ -2,8 +2,13 @@ body {
     background-color: #1D1D1E;
 }
 
+.cabecera{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 h1 {
-    color: #435A7C;
+    color: #20D191;
+    font-size: 35px;
 }
 
 img {
@@ -23,8 +28,13 @@ img {
 
 
 .parrafo {
-    color: #494B4E;
+    color: #ccc;
     font-size: 20px;
+}
+
+.año-banda{
+   
+    color: #ccc;
 
 }
 
