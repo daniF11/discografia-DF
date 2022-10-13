@@ -15,6 +15,15 @@ img {
     border-radius: 10px;
 }
 
+.img-album:hover{
+    
+    box-shadow: rgba(157, 71, 9, 0.56) 0px 22px 70px 4px;
+    transition: box-shadow 1.5s;
+    cursor: pointer;
+
+
+}
+
 
 .album-container {
 
