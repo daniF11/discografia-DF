@@ -82,3 +82,50 @@ img {
     margin: 15px;
 
 }
+
+
+
+.encabezado-mostrar-album{
+    display: flex;
+    margin: auto;
+    width: 500px;
+    color: #ccc;
+
+}
+
+.contenedor-mostrar-album{
+   
+}
+
+.caratula{
+    display: inline-block;
+}
+
+.descripcion{
+    display: inline-block;
+   
+}
+
+.data{
+    margin-left: 15px;
+}
+
+.lista{
+    list-style-type: none;
+    margin: 5px;
+    padding: 5px;
+}
+
+.link-lista{
+    text-decoration: none;
+    color: #46CDD7;
+}
+.contenido-canciones{
+
+
+display: inline-block;
+}
+
+th td{
+    margin: 10px;
+}
